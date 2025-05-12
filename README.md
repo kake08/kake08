@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently learning Node.js and React in my spare time
+Ask me about anything!
+I'm looking to collaborate on software dev projects
+
 <!--
 **kake08/kake08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
