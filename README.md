@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 I'm currently learning Node.js and React in my spare time
+
 Ask me about anything!
+
 I'm looking to collaborate on software dev projects
 
 <!--
